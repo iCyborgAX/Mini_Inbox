@@ -1,0 +1,11 @@
+{
+  "name": "Mini Inbox App",
+  "short_name": "MiniInbox",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
